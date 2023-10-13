@@ -18,13 +18,13 @@ ul {
   color: rgb(88, 33, 151);
 }
 
-#film-image {
+.film-image {
   border: 10px solid white;
   width: 300px;
   margin-right: 0px;
-  margin-left: 100px;
+  margin-left: 20px;
 }
-#tv-show-image {
+.tv-show-image {
   border-radius: 50%;
 }
 
@@ -38,16 +38,20 @@ h2 {
   margin-bottom: 20px;
   font-size: 40px;
 }
-#tv-show-image {
-  width: 200px;
+.tv-show-image {
+  width: 500px;
+  padding: 10px;
 }
-.films-and-image {
-  display: flex;
-  align-items: center;
+#silo-cast{
+  width: 500px;
+}
+#htgam-cast{
+  width: 500px;
 }
 
 ol {
-  width: 50%;
+  width: 100%;
+  padding: 20px
 }
 #films-section {
   margin-bottom: 100px;
