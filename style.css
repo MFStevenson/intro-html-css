@@ -1,0 +1,22 @@
+*{
+    font-family: sans-serif;
+}
+body {
+    background-color: rgb(148, 198, 241);
+}
+
+a:link{
+    font-size: large;
+}
+
+ul{
+    color: rgb(88, 33, 151);
+}
+
+#film-image{
+    border: 10px solid white
+}
+
+#tv-show-image{
+    border-radius: 50%;
+}
